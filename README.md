@@ -7,7 +7,7 @@ This service sorts Books according to order rules.
 1. You should clone this repo:
 
     ```
-    $ git clone https://github.com/douglassimoes/
+    $ git clone https://github.com/douglassimoes/Sorting-Service-Client
     ```
 
 2. Python 3 is already installed on modern versions of Ubuntu, so you probably have it installed:
@@ -23,7 +23,7 @@ This service sorts Books according to order rules.
     $ python bookssorter.py
     ```
 
-4. ...or you can run the app tests:
+4. Run the tests:
 
     ```
     $ cd src/tests
